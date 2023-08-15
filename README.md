@@ -75,3 +75,6 @@ A Discord bot created to help a friend, which outputs basic git commands and rel
 30. `git tag <tag_name>`: Creates a new lightweight tag at the current commit.
 
 31. `git tag -a <tag_name> -m "Tag message"`: Creates an annotated tag with a message.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
