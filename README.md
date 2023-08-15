@@ -1,4 +1,18 @@
-# Git Commands
+# Guppy
+A Discord bot created to help a friend, which outputs basic git commands and relevant descriptions.
+
+## Usage
+### List Available Commands
+```
+/guppy all
+```
+
+### Give Command Description
+```
+/guppy command [command]
+```
+
+## Git Commands
 
 1. `git init`: Initialises a new Git repository in the current directory.
 
